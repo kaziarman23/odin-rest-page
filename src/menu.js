@@ -32,7 +32,7 @@ function menu_page() {
     page_contener.appendChild(menuItem4);
     content.appendChild(page_contener);
 
-    page_contener.setAttribute("id", "contact_page_menu");
+    page_contener.setAttribute("id", "menu_page");
 }
 
 export default menu_page;
